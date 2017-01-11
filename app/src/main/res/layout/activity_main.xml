@@ -11,30 +11,30 @@
     tools:context="com.dormity.imagine.dormity_app.MainActivity">
 
     <Button
-        android:text="Button"
+        android:id="@+id/button"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_alignParentTop="true"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="115dp"
-        android:id="@+id/button" />
+        android:text="@string/experience_button" />
 
     <Button
-        android:text="Button"
+        android:id="@+id/button2"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_centerVertical="true"
-        android:layout_alignRight="@+id/button"
         android:layout_alignEnd="@+id/button"
-        android:id="@+id/button2" />
+        android:layout_alignRight="@+id/button"
+        android:layout_centerVertical="true"
+        android:text="@string/report_button" />
 
     <Button
-        android:text="Button"
+        android:id="@+id/button3"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_below="@+id/button2"
         android:layout_alignLeft="@+id/button2"
         android:layout_alignStart="@+id/button2"
+        android:layout_below="@+id/button2"
         android:layout_marginTop="62dp"
-        android:id="@+id/button3" />
+        android:text="@string/dormity_button" />
 </RelativeLayout>
