@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Main colors -->
+    <color name="colorDormity">#ff00ee</color>
+    <color name="colorBackground">#ffffff</color>
+    <color name="colorText">#ffffff</color>
+
+    <!-- Text box colors -->
+    <color name="colorTextBoxGradientStart">#fdfdfd</color>
+    <color name="colorTextBoxGradientEnd">#e7e7e7</color>
+    <color name="colorTextBoxBorder">#c1c1c1</color>
+
+    <!-- Button colors -->
+    <color name="colorButtonBorder">#94008a</color>
+    <!-- Normal -->
+    <color name="colorButtonGradientStart">#ff00ee</color>
+    <color name="colorButtonGradientEnd">#d200c5</color>
+    <!-- Focused -->
+    <color name="colorButtonFocused">#ff00ee</color>
+    <!-- Pressed -->
+    <color name="colorButtonPressedGradientStart">#d201c4</color>
+    <color name="colorButtonPressedGradientEnd">#9e0194</color>
+
+</resources>
